@@ -326,12 +326,12 @@ int main()
         else if (op == 3)
         {
             printf("\e[H\e[2J");
-            printf("                    ==========Creditos======================\n");
+            printf("                    =================Creditos===============\n");
             printf("                    =                                      =\n");
             printf("                    =                                      =\n");
-            printf("                    =         Marcelo Magalhaes Silva      =\n");
-            printf("                    =         2020004243                   =\n");
-            printf("                    =         COM112                       =\n");
+            printf("                    =  Marcelo Magalhaes Silva-2020004243  =\n");
+            printf("                    =  Luciano José de Araújo- 2018006868  =\n");
+            printf("                    =    Atividade Avaliativa 1 - COM112   =\n");
             printf("                    ========================================\n");
             waiter();
         }
